@@ -2,16 +2,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=85D1CCED&background=A2F5FF00&center=true&vCenter=true&width=1000&lines=Full-Stack+Web+Developer;Bringing+Ideas+To+Life)](https://git.io/typing-svg)
 <div align="center">
 
-[![HTML5](https://img.shields.io/badge/HTML5-DADFBF?style=for-the-badge&logo=html5&logoColor=333333)](https://github.com/shakedkelman) 
-[![CSS3](https://img.shields.io/badge/CSS3-DADFBF?style=for-the-badge&logo=css3&logoColor=333333)](https://github.com/shakedkelman) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-DADFBF?style=for-the-badge&logo=javascript&logoColor=333333)](https://github.com/shakedkelman) 
-[![TypeScript](https://img.shields.io/badge/TypeScript-DADFBF?style=for-the-badge&logo=typescript&logoColor=333333)](https://github.com/shakedkelman) 
-[![React](https://img.shields.io/badge/React.js-DADFBF?style=for-the-badge&logo=react&logoColor=333333)](https://github.com/shakedkelman) 
-[![Redux](https://img.shields.io/badge/Redux-DADFBF?style=for-the-badge&logo=redux&logoColor=333333)](https://github.com/shakedkelman) 
-[![Node.js](https://img.shields.io/badge/Node.js-DADFBF?style=for-the-badge&logo=node.js&logoColor=333333)](https://github.com/shakedkelman) 
-[![Express](https://img.shields.io/badge/Express.js-DADFBF?style=for-the-badge&logo=express&logoColor=333333)](https://github.com/shakedkelman) 
-[![MySQL](https://img.shields.io/badge/MySQL-DADFBF?style=for-the-badge&logo=mysql&logoColor=333333)](https://github.com/shakedkelman)
-
+[![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://github.com/shakedkelman) 
+[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF)](https://github.com/shakedkelman) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)](https://github.com/shakedkelman) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://github.com/shakedkelman) 
+[![React](https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://github.com/shakedkelman) 
+[![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=FFFFFF)](https://github.com/shakedkelman) 
+[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](https://github.com/shakedkelman) 
+[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)](https://github.com/shakedkelman) 
+[![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)](https://github.com/shakedkelman)
 
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
@@ -24,3 +23,5 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=10000&pause=3000&color=93E4DEED&center=true&vCenter=true&repeat=false&width=1000&lines=Let%E2%80%99s+create+something+amazing!+%E2%9C%A8++)](https://git.io/typing-svg)
+
+

@@ -13,18 +13,21 @@
 [![MySQL](https://img.shields.io/badge/MySQL-DADFBF?style=for-the-badge&logo=mysql&logoColor=333333)](https://github.com/shakedkelman)
 
 
-### About Me  
-My journey into development began with a deep love for art, and I now combine creativity with code to build impactful and engaging projects. I enjoy tackling challenges, learning new technologies, and collaborating with dynamic teams. With a fresh perspective and an eagerness to grow, I’m ready to make a meaningful contribution. 🚀  
-
-
 
 ### 📫 How to Reach Me  
-- **Email:** [shaked.kelman@gmail.com](mailto:shaked.kelman@gmail.com)  
 <div align="center">
   <a href="https://linkedin.com/in/shaked-kelman-5894a5271" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-F1E0AC?style=flat&logo=linkedin&logoColor=000000" alt="LinkedIn Badge">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Logo">
   </a>
 </div>
+
+<div align="center">
+  <a href="mailto:shaked.kelman@gmail.com" target="_blank" style="color: #85D0CB; font-size: 18px; text-decoration: none;">
+    shaked.kelman@gmail.com
+  </a>
+</div>
+
+
 
 Let’s create something amazing together! ✨  
 </div>

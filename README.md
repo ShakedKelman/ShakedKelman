@@ -20,7 +20,11 @@ My journey into development began with a deep love for art, and I now combine cr
 
 ### 📫 How to Reach Me  
 - **Email:** [shaked.kelman@gmail.com](mailto:shaked.kelman@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/shaked-kelman-5894a5271](https://linkedin.com/in/shaked-kelman-5894a5271)  
+<div align="center">
+  <a href="https://linkedin.com/in/shaked-kelman-5894a5271" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-F1E0AC?style=flat&logo=linkedin&logoColor=000000" alt="LinkedIn Badge">
+  </a>
+</div>
 
 Let’s create something amazing together! ✨  
 </div>

@@ -12,16 +12,21 @@
 [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)](https://github.com/shakedkelman) 
 [![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)](https://github.com/shakedkelman)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=10000&pause=3000&color=93E4DEED&center=true&vCenter=true&repeat=false&width=1000&lines=Let%E2%80%99s+create+something+amazing!+%E2%9C%A8++)](https://git.io/typing-svg)
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
-  <a href="https://linkedin.com/in/shaked-kelman-5894a5271" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Logo" width="48" height="45">
+  <a href="https://linkedin.com/in/shaked-kelman-5894a5271" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin-circled.png" 
+         alt="LinkedIn Logo" width="40" height="40">
   </a>
-  <a href="mailto:shaked.kelman@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email Logo" width="45" height="45">
+
+  <a href="mailto:shaked.kelman@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/gmail.png" 
+         alt="Email Logo" width="40" height="40">
   </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=10000&pause=3000&color=93E4DEED&center=true&vCenter=true&repeat=false&width=1000&lines=Let%E2%80%99s+create+something+amazing!+%E2%9C%A8++)](https://git.io/typing-svg)
+
+
 
 

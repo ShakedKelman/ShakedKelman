@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=85D1CCED&center=true&vCenter=true&repeat=false&width=1000&lines=Shaked+Kelman)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=85D1CCED&background=A2F5FF00&center=true&vCenter=true&width=1000&lines=Full-Stack+Web+Developer;Bringing+Ideas+To+Life)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=AFEFFFED&center=true&vCenter=true&repeat=false&width=1000&lines=Shaked+Kelman)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=AFEFFFED&background=A2F5FF00&center=true&vCenter=true&width=1000&lines=Full-Stack+Web+Developer;Bringing+Ideas+To+Life)](https://git.io/typing-svg)
+
+
 <div align="center">
 
 [![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://github.com/shakedkelman) 
@@ -12,7 +15,7 @@
 [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)](https://github.com/shakedkelman) 
 [![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)](https://github.com/shakedkelman)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=10000&pause=3000&color=93E4DEED&center=true&vCenter=true&repeat=false&width=1000&lines=Let%E2%80%99s+create+something+amazing!+%E2%9C%A8++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=10000&pause=3000&color=AFEFFFED&background=000000ED&center=true&vCenter=true&repeat=false&width=1000&lines=Let%E2%80%99s+create+something+amazing!+%E2%9C%A8++)](https://git.io/typing-svg)
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://linkedin.com/in/shaked-kelman-5894a5271" target="_blank" style="text-decoration: none;">

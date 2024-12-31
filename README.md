@@ -15,7 +15,7 @@
 [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)](https://github.com/shakedkelman) 
 [![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)](https://github.com/shakedkelman)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=10000&pause=3000&color=AFEFFFED&background=000000ED&center=true&vCenter=true&repeat=false&width=1000&lines=Let%E2%80%99s+create+something+amazing!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=10000&pause=3000&color=AFEFFFED&center=true&vCenter=true&repeat=false&width=1000&lines=Let%E2%80%99s+create+something+amazing!+)](https://git.io/typing-svg)
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://linkedin.com/in/shaked-kelman-5894a5271" target="_blank" style="text-decoration: none;">
